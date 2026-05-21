@@ -7,6 +7,7 @@ image:
 categories:
     - Kubernetes
     - Agones
+    - Kubernetes生产化项目-Agones
 ---
 
 书接上回，现在我们部署好了gameserver和监控系统，现在还要研究agones的两个核心功能：模拟玩家进场和动态扩缩容

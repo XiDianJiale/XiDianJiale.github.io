@@ -7,7 +7,7 @@ image:
 categories:
     - Kubernetes
     - Agones
-    - Observability
+    - Kubernetes生产化项目-Agones
 ---
 
 ### 安装与配置
